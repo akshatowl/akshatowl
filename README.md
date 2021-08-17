@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics and Control Systems
 - 🌱 I’m currently learning ROS and it's relevant applications
 <!--- 💞️ I’m looking to collaborate on ...-->
-- 📫 <a href="https://www.notion.so/I-m-Akshat-Pandey-dff9aac4529b40c48992c50f46027485">Profile</a> 
+- 📫 <a href="https://akshatowl.notion.site/About-Me-297383109d6b4b81996926494679f0a7">Profile</a> 
             
 - ✨ <a href="https://www.linkedin.com/in/akshat-pandey-011b811a2/">LinkedIn</a>
 
