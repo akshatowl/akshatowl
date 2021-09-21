@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @akshatowl
-- 👀 I’m interested in Robotics and Control Systems
+- 👋 Hi, I’m @akshatowl and I find owls fascinating!
+- 👀 I’m interested in Control Systems and Path Planniong for robotic applications
 - 🌱 I’m currently learning ROS and it's relevant applications
-<!--- 💞️ I’m looking to collaborate on ...-->
-- 📫 <a href="https://akshatowl.notion.site/About-Me-297383109d6b4b81996926494679f0a7">Profile</a> 
-            
+- 📫 <a href="https://akshatowl.notion.site/About-Me-297383109d6b4b81996926494679f0a7">Profile</a>            
 - ✨ <a href="https://www.linkedin.com/in/akshat-pandey-011b811a2/">LinkedIn</a>
 
 <!---
