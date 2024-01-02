@@ -3,7 +3,7 @@
 - 🧮 I enjoy learning and applying concepts of linaer algebra and stochastic models
 - 👀 I’m interested in Control Systems and Path Planning for robotic applications
 - 🌱 I’m currently into vision based navigation for autonomous UGVs 
-- 📫 <a href="https://akshatowl.notion.site/About-Me-297383109d6b4b81996926494679f0a7">Profile</a>            
+- 📫 <a href="https://www.akshatpandey.net">Website</a>            
 - ✨ <a href="https://www.linkedin.com/in/akshat-pandey-011b811a2/">LinkedIn</a>
 
 <!---
