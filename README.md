@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @akshatowl and I find owls fascinating!
-- 📖 I'm currently pursuing my Master's in Computer Engineering from Texas A&M University
-- 🧮 I enjoy learning and applying concepts of linaer algebra and stochastic models
-- 👀 I’m interested in Control Systems and Path Planning for robotic applications
-- 🌱 I’m currently into vision based navigation for autonomous UGVs 
+- 📖 I'm currently pursuing my MS in Computer Engineering from Texas A&M University
 - 📫 <a href="https://www.akshatpandey.net">Website</a>            
 - ✨ <a href="https://www.linkedin.com/in/akshat-pandey-011b811a2/">LinkedIn</a>
 
