@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshatowl and I find owls fascinating!
+- 👋 Hi, I’m Akshat and I find owls fascinating!
 - 📖 I'm currently pursuing my MS in Computer Engineering from Texas A&M University
 - 📫 <a href="https://www.akshatpandey.net">Website</a>            
 - ✨ <a href="https://www.linkedin.com/in/akshat-pandey-011b811a2/">LinkedIn</a>
